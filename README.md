@@ -3,7 +3,7 @@
 # Xylophone 🎹
 
 
-## What you will create
+
  Music app that plays Xylophone sounds.
 
 
