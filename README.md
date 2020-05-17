@@ -5,6 +5,8 @@
 
 
  Music app that plays Xylophone sounds.
+ 
+ <img src="assets/Screenshot_20200517-105722[1].png" width="300" height="500">
 
 
 
