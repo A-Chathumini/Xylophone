@@ -8,6 +8,7 @@
 
 
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+Guidance:
+The App Brewery's Complete Flutter Development Bootcamp
+(https://www.appbrewery.co/)
 
